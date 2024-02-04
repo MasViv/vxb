@@ -1,0 +1,36 @@
+.start
+{
+    font-size:20px;
+}
+
+body
+{
+    background-size:cover;
+    margin-bottom:100;
+    background-position:center;
+}
+
+canvas
+{
+border:5px solid black;
+box-shadow:5px 5px 5px black;
+}
+
+#title
+{
+width:100%;
+position:6px;
+font-size:25;
+}
+
+#status,#number_of_objects
+{
+    font-size:20px;
+}
+
+canvas
+{
+border:5px solid blue;
+box-shadow:5px 5px 5px red;
+margin-top:75px;
+}
